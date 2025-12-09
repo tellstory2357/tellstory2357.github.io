@@ -1,1 +1,1 @@
-# ai-stories.github.io
+# stories in AI
